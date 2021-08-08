@@ -8,9 +8,9 @@ Hola mi nombre es Luis, soy de México y tambien soy un leaker de Fortnite
 ## Habilidades
 
 * Los lenguages que manejo son:
-* - Python
-* - JavaScript
-* - CSS
+  - Python
+  - JavaScript
+  - CSS
 * Y un poco de HTML
 
 ## Contacto
